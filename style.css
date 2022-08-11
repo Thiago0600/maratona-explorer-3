@@ -74,6 +74,7 @@
     color: rgba(red, green, blue, alpha);
     font-size: 14px;
     line-height: 21px;
+    width: 300px;
   }
   
   h1, h2, h3, .price{
